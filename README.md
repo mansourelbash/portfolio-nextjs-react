@@ -20,7 +20,7 @@ This project demonstrates a personal portfolio website built using the latest Re
 - Responsive website
 
 ## Screenshot 
-![sample image](/screenshot-portfilio.png)
+![sample image](/public/screenshot-portfilio.png)
 
 ## Setup
 
