@@ -1,10 +1,11 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+# Portfolio Project - React & Next.js Showcase
 
-## What you will learn
+This project demonstrates a personal portfolio website built using the latest React and Next.js features. The website showcases professional experience, completed projects, and technical skills in a sleek, responsive design.
 
-- Latest Next.js 13 features
+## What we are use on Project
+
+- Latest Next.js features
 - Next.js App Router
 - Next.js Server Actions
 - Client & Server Components
@@ -26,5 +27,8 @@ I'm close to releasing a complete React & Next.js course. Get on the email list 
 
 ## Setup
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+1. Clone the repository: `git clone <repository-url>`
+2. Install dependencies: `npm install`
+3. Add `RESEND_API_KEY` environment variable in `.env.local`
+4. Update the `to` email in `send-email.ts` to your own email address
+5. Start the development server: `npm run dev`
